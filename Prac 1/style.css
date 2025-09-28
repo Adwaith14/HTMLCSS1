@@ -1,0 +1,117 @@
+/* wid 825 px */
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans;
+  font-size: 16px;
+  line-height: 1.5;
+}
+p {
+}
+.shipping {
+  color: rgb(128, 124, 124);
+}
+.art {
+  position: relative;
+  margin: 60px auto;
+  border: 5px solid black;
+  width: 825px;
+}
+.sale {
+  text-transform: capitalize;
+  font-size: 15px;
+  padding: 3px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  letter-spacing: 2px;
+  width: 80px;
+  background-color: red;
+  position: absolute;
+  top: -15px;
+  left: -30px;
+}
+.lis {
+  margin-top: 15px;
+}
+.col_p {
+  height: 20px;
+  width: 20px;
+  background-color: black;
+  margin-right: 15px;
+  display: inline-block;
+}
+.col_pi {
+  height: 20px;
+  width: 20px;
+  background-color: blue;
+  margin-right: 15px;
+  display: inline-block;
+}
+.col_pic {
+  height: 20px;
+  width: 20px;
+  background-color: red;
+  margin-right: 15px;
+  display: inline-block;
+}
+.col_pick {
+  height: 20px;
+  width: 20px;
+  background-color: rgb(252, 252, 49);
+  margin-right: 15px;
+  display: inline-block;
+}
+.col_picke {
+  height: 20px;
+  width: 20px;
+  background-color: green;
+  margin-right: 15px;
+  display: inline-block;
+}
+.col_picker {
+  height: 20px;
+  width: 20px;
+  background-color: brown;
+  margin-right: 15px;
+  display: inline-block;
+}
+h2 {
+  font-weight: 700;
+}
+.product-title {
+  background-color: rgb(204, 203, 203);
+  text-align: center;
+  padding: 25px;
+}
+ul {
+  margin-left: 15px;
+  list-style-type: square;
+}
+a {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover {
+  text-decoration: underline;
+}
+button {
+  width: 100%;
+  background-color: black;
+  padding: 15px;
+  color: white;
+  border: 0;
+  border-top: 5px solid black;
+  font-size: 30px;
+}
+button:hover {
+  background-color: white;
+  color: black;
+  font-size: 30px;
+  padding: 15px;
+  cursor: pointer;
+}
+.details-title {
+  margin-top: 10px;
+}
